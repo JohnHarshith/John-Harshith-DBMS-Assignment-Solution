@@ -1,1 +1,1 @@
-# John-Harshith-DBMS-Assignment-Solution
+# John Harshith DBMS Assignment Solution
