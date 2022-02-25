@@ -21,4 +21,3 @@ INSERT INTO PASSENGER VALUES('Ankur','AC','M','Nagpur','Hyderabad',500,'Sitting'
 INSERT INTO PASSENGER VALUES('Hemant','Non-AC','M','Panaji','Mumbai',700,'Sleeper');
 INSERT INTO PASSENGER VALUES('Manish','Non-AC','M','Hyderabad','Bengaluru',500,'Sitting');
 INSERT INTO PASSENGER VALUES('Piyush','AC','M','Pune','Nagpur',700,'Sitting');
-
