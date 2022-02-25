@@ -16,6 +16,3 @@ create table if not exists PASSENGER(
     Distance int not null,
     Bus_Type varchar(10),
     foreign key (Bus_Type,Distance) references PRICE(Bus_Type,Distance));
-    
-
-    
